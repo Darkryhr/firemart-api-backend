@@ -1,0 +1,200 @@
+[
+  {
+    "name": "chicken",
+    "category": "meat",
+    "price": 29.9,
+    "image": "chicken.png"
+  },
+  {
+    "name": "ground beef",
+    "category": "meat",
+    "price": 39.9,
+    "image": "ground-beef.jpg"
+  },
+  {
+    "name": "milk",
+    "category": "dairy",
+    "price": 5.9,
+    "image": "milk.jpg"
+  },
+  {
+    "name": "cheese",
+    "category": "dairy",
+    "price": 4.9,
+    "image": "cheese.jpg"
+  },
+  {
+    "name": "white bread",
+    "category": "breads",
+    "price": 5.9,
+    "image": "white-bread.jpg"
+  },
+  {
+    "name": "red wine",
+    "category": "alcohol",
+    "price": 35.9,
+    "image": "red-wine.jpg"
+  },
+  {
+    "name": "white wine",
+    "category": "alcohol",
+    "price": 29.9,
+    "image": "white-wine.jpg"
+  },
+  {
+    "name": "lager beer",
+    "category": "alcohol",
+    "price": 7.9,
+    "image": "lager-beer.jpg"
+  },
+  {
+    "name": "water",
+    "category": "soft drinks",
+    "price": 3.9,
+    "image": "water.jpg"
+  },
+  {
+    "name": "corn",
+    "category": "canned goods",
+    "price": 4.9,
+    "image": "corn.jpeg"
+  },
+  {
+    "name": "peas",
+    "category": "canned goods",
+    "price": 4.9,
+    "image": "peas.jpg"
+  },
+  {
+    "name": "potatoes",
+    "category": "fruits & vegetables",
+    "price": 3.9,
+    "image": "potatoes.jpg"
+  },
+  {
+    "name": "carrots",
+    "category": "fruits & vegetables",
+    "price": 3.9,
+    "image": "carrots.jpg"
+  },
+  {
+    "name": "cucumbers",
+    "category": "fruits & vegetables",
+    "price": 4.9,
+    "image": "cucumbers.jpg"
+  },
+  {
+    "name": "tomatoes",
+    "category": "fruits & vegetables",
+    "price": 4.9,
+    "image": "tomatoes.jpg"
+  },
+  {
+    "name": "instant coffee",
+    "category": "coffee & tea",
+    "price": 19.9,
+    "image": "instant-coffee.jpg"
+  },
+  {
+    "name": "earl grey",
+    "category": "coffee & tea",
+    "price": 12.9,
+    "image": "earl-grey.jpg"
+  },
+  {
+    "name": "chocolate milk",
+    "category": "coffee & tea",
+    "price": 15.9,
+    "image": "chocolate-milk.jpg"
+  },
+  {
+    "name": "milk chocolate",
+    "category": "sweets",
+    "price": 5.9,
+    "image": "milk-chocolate.jpg"
+  },
+  {
+    "name": "dark chocolate",
+    "category": "sweets",
+    "price": 5.9,
+    "image": "dark-chocolate.jpg"
+  },
+  {
+    "name": "gummy bears",
+    "category": "sweets",
+    "price": 4.9,
+    "image": "gummy-bears.jpeg"
+  },
+  {
+    "name": "toilet paper",
+    "category": "personal care",
+    "price": 36.9,
+    "image": "toilet-paper.jpeg"
+  },
+  {
+    "name": "wet wipes",
+    "category": "personal care",
+    "price": 9.9,
+    "image": "wet-wipes.jpg"
+  },
+  {
+    "name": "cleaning spray",
+    "category": "personal care",
+    "price": 11.9,
+    "image": "cleaning-spray.jpg"
+  },
+  {
+    "name": "laundry detergent",
+    "category": "laundry",
+    "price": 29.9,
+    "image": "laundry-detergent.png"
+  },
+  {
+    "name": "fabric softener",
+    "category": "laundry",
+    "price": 12.9,
+    "image": "fabric-softener.jpeg"
+  },
+  {
+    "name": "chips",
+    "category": "snacks",
+    "price": 3.9,
+    "image": "potato-chips.jpg"
+  },
+  {
+    "name": "cheetos",
+    "category": "snacks",
+    "price": 3.9,
+    "image": "cheetos.jpg"
+  },
+  {
+    "name": "doritos",
+    "category": "snacks",
+    "price": 3.9,
+    "image": "doritos.jpg"
+  },
+  {
+    "name": "ketchup",
+    "category": "sauces & condiments",
+    "price": 9.9,
+    "image": "ketchup.jpeg"
+  },
+  {
+    "name": "mayonnaise",
+    "category": "sauces & condiments",
+    "price": 8.9,
+    "image": "mayonnaise.jpg"
+  },
+  {
+    "name": "mustard",
+    "category": "sauces & condiments",
+    "price": 13.9,
+    "image": "mustard.jpg"
+  },
+  {
+    "name": "soy sauce",
+    "category": "sauces & condiments",
+    "price": 10.9,
+    "image": "soy-sauce.jpg"
+  }
+]

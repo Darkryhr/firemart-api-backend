@@ -1,0 +1,54 @@
+[
+  {
+    "name": "meat",
+    "image": "https://img.icons8.com/material-outlined/24/000000/thanksgiving.png"
+  },
+  {
+    "name": "breads",
+    "image": "https://img.icons8.com/material-outlined/24/000000/bread.png"
+  },
+  {
+    "name": "dairy",
+    "image": "https://img.icons8.com/material-outlined/24/000000/cheese.png"
+  },
+  {
+    "name": "alcohol",
+    "image": "https://img.icons8.com/material-outlined/24/000000/wine-bottle.png"
+  },
+  {
+    "name": "soft drinks",
+    "image": "https://img.icons8.com/material-outlined/24/000000/thirst.png"
+  },
+  {
+    "name": "canned goods",
+    "image": "https://img.icons8.com/material-outlined/24/000000/beer-can.png"
+  },
+  {
+    "name": "fruits & vegetables",
+    "image": "https://img.icons8.com/material-outlined/24/000000/carrot.png"
+  },
+  {
+    "name": "coffee & tea",
+    "image": "https://img.icons8.com/material-outlined/24/000000/cafe.png"
+  },
+  {
+    "name": "sweets",
+    "image": "https://img.icons8.com/material-outlined/24/000000/candy.png"
+  },
+  {
+    "name": "personal care",
+    "image": "https://img.icons8.com/material-outlined/24/000000/toilet-paper.png"
+  },
+  {
+    "name": "laundry",
+    "image": "https://img.icons8.com/material-outlined/24/000000/washing-machine.png"
+  },
+  {
+    "name": "snacks",
+    "image": "https://img.icons8.com/material-outlined/24/000000/french-fries.png"
+  },
+  {
+    "name": "sauces & condiments",
+    "image": "https://img.icons8.com/material-outlined/24/000000/soy-sauce.png"
+  }
+]
